@@ -2,7 +2,7 @@
 public class Main {
 
 
-    public static void main(String[] args){
+    public static void main(String... args){
 
         int i; //exemplo correto;
         //int i; // variável com mesmo nome;
